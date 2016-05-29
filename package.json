@@ -1,0 +1,22 @@
+{
+  "name": "wiki_viewer_project",
+  "version": "1.0.0",
+  "description": "wiki viewer project for Free Code Camp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wiki",
+    "webdev",
+    "html",
+    "css",
+    "javascript",
+    "jquery"
+  ],
+  "author": "Angela Johnson",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-connect": "^4.0.0"
+  }
+}
